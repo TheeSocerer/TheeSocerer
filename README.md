@@ -4,28 +4,23 @@
 
 ### 👀 What sparks my curiosity?
 I’m a developer and digital wizard, passionate about harnessing the powers of **tech, data, and design** to create solutions that make life easier, more efficient, and, yes, a little more magical! Currently, I’m deeply engrossed in:
-- **Blockchain tech** in healthcare, aiming to transform how patient data is managed and shared securely.
-- Crafting **robust Spring Boot APIs** for everything from libraries 📚 to restaurants 🍽️.
-- Building **next-gen NFT projects** and exploring ways to bring the art and tech worlds together.
-  
+- **Blockchain technology** and everything smart contracts, pushing boundaries in digital ownership and decentralization.
+- Crafting **robust REST APIs** for everything from libraries 📚 to restaurants 🍽️.
+- Building **next-gen NFT projects** and exploring how to merge art and tech seamlessly.
+
 ### 🌱 I’m on a continuous journey of learning:
 Right now, my spellbook includes:
 - **Spring Boot & Microservices**: Building backend solutions that connect the dots with elegance and power.
-- **DeepRacer AI** 🏎️: Tuning reward functions for Amazon's virtual raceway.
-- **React**: Creating intuitive and responsive frontends to link with my backend projects.
-- **ORM and CI/CD Pipelines**: Making code cleaner, faster, and easier to deploy.
-
-### 💞️ Looking to Collaborate on:
-I’m always open to projects that involve:
-- **Blockchain solutions** for real-world issues, especially in healthcare.
-- **Innovative Web3 & NFT applications** with a creative edge.
-- **DeepRacer AI challenges** or anything else that speeds up the pulse of tech.
+- **Hardhat**: Coding and testing smart contracts.
+- **NFT Development**: From architecture to metadata creation, specializing in NFTs with an emphasis on decentralized storage and user experience.
+- **Cryptography and Web Development**: Delving into the fascinating worlds of secure communication and web interfaces.
+- **Django**: Developing APIs and applications with Python’s power, focusing on rapid deployment and seamless integration.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🧑‍💻 [Decentralized Application on Celo](https://github.com/TheeSocerer/YourCeloDAppRepository)
+### 🧑‍💻 [Celo Smart Contract MarketPlace](https://github.com/TheeSocerer/celo_smart_contract_marketplace)
 A decentralized application (DApp) built on the **Celo blockchain**. This app enables users to interact with smart contracts from a user-friendly web interface, combining **Solidity** for smart contracts and **HTML/JavaScript** for the front end.  
 **Key Features**:
 - **Smart contract creation, deployment, and interaction**
@@ -43,11 +38,11 @@ A specialized API designed for businesses involved in producing rod-like product
 - **Smart contract integration** for transparency and security
 - **Material and price management** per length/piece
 - **Advanced cutting optimization calculations**  
-**Tech Stack**: Internet Computer, ICP, Smart Contracts
+**Tech Stack**: Internet Computer, ICP, Smart Contracts, TypeScript
 
-### 🎨 [NFT Birthday Gift](https://github.com/TheeSocerer/NFT-Birthday-Gift)
+### 🎨 [NFT Birthday Gift](#)
 A unique NFT project created as a personalized birthday gift. This NFT showcases original artwork and is stored on decentralized storage, capturing the recipient's unique qualities in a layered, symbolic design.  
-**Tech Stack**: Pinata, Solidity, IPFS, React
+**Tech Stack**: Pinata, Solidity, IPFS,
 
 ---
 
@@ -70,4 +65,6 @@ I was part of a **rowing club** back in university—no better place to learn te
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheeSocerer&color=brightgreen)
 
+---
 
+Let’s create magic together!
