@@ -49,6 +49,10 @@ Here are the languages, frameworks, and tools I work with:
 ![TheeSocerer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheeSocerer&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheeSocerer&layout=compact&theme=radical)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TheeSocerer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 ### 📫 Where to find me:
 - **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/tshepo-shi)
