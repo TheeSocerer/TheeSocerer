@@ -18,34 +18,6 @@ Right now, my spellbook includes:
 
 ---
 
-## 🌟 Featured Projects
-
-### 🧑‍💻 [Celo Smart Contract MarketPlace](https://github.com/TheeSocerer/celo_smart_contract_marketplace)
-A decentralized application (DApp) built on the **Celo blockchain**. This app enables users to interact with smart contracts from a user-friendly web interface, combining **Solidity** for smart contracts and **HTML/JavaScript** for the front end.  
-**Key Features**:
-- **Smart contract creation, deployment, and interaction**
-- **User-friendly web interface for Celo**
-- **Real-world example** of blockchain technology in a web app  
-**Tech Stack**: Solidity, JavaScript, HTML, Celo
-
-### 📚 [Spring LMS](https://github.com/TheeSocerer/Spring_LMS)
-A Library Management System built with **Spring Boot**. This project includes RESTful APIs that handle library operations seamlessly, with an emphasis on clean architecture and scalability.  
-**Tech Stack**: Java, Spring Boot, Hibernate, MySQL, Thymeleaf
-
-### 🌐 [Cutting Optimization Canister API](https://github.com/TheeSocerer/CuttingOptimizationAPI)
-A specialized API designed for businesses involved in producing rod-like products. Built on **Internet Computer (ICP)**, this API integrates smart contracts to manage materials and pricing efficiently. It optimizes material cutting to minimize waste and maximize profit.  
-**Key Features**:
-- **Smart contract integration** for transparency and security
-- **Material and price management** per length/piece
-- **Advanced cutting optimization calculations**  
-**Tech Stack**: Internet Computer, ICP, Smart Contracts, TypeScript
-
-### 🎨 [NFT Birthday Gift](#)
-A unique NFT project created as a personalized birthday gift. This NFT showcases original artwork and is stored on decentralized storage, capturing the recipient's unique qualities in a layered, symbolic design.  
-**Tech Stack**: Pinata, Solidity, IPFS,
-
----
-
 ## 🖥️ Languages, Frameworks & Tools
 
 Here are the languages, frameworks, and tools I work with:
@@ -72,14 +44,6 @@ Here are the languages, frameworks, and tools I work with:
 - ![TDD](https://img.shields.io/badge/TDD-DA5B5B?style=flat&logo=testomatio&logoColor=white) For test-driven development ensuring reliable and bug-free code.
 - ![User Stories](https://img.shields.io/badge/Stories-F2C500?style=flat&logo=trello&logoColor=white) For creating user-focused tasks that guide development and iteration.
 
-### Methodologies:
-- **Agile Methodology**: For iterative development, focusing on continuous delivery, flexibility, and customer collaboration.
-- **Domain-Driven Design (DDD)**: For designing software based on the core business domain, ensuring that the system reflects the business logic effectively.
-- **Brownfield Projects**: Experience in working with existing codebases to extend and improve software functionality while maintaining compatibility and stability.
-- **Trunk-Based Development (TBD)**: Using a single branch for all development efforts, frequently committing to the trunk to enable continuous integration and minimize branching overhead.
-
-
-
 ### 📊 GitHub Stats
 
 ![TheeSocerer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheeSocerer&show_icons=true&theme=radical)
@@ -94,11 +58,7 @@ Here are the languages, frameworks, and tools I work with:
 ### 😄 Pronouns:
 He/Him
 
-### ⚡ Fun Fact:
-I was part of a **rowing club** back in university—no better place to learn teamwork, endurance, and how to make a boat move with pure grit! 🚣
-
 ![Profile Views](https://komarev.com/ghpvc/?username=TheeSocerer&color=brightgreen)
 
 ---
-
 Let’s create magic together!
